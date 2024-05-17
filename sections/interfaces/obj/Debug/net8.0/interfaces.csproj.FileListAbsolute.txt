@@ -1,0 +1,15 @@
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\bin\Debug\net8.0\interfaces.exe
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\bin\Debug\net8.0\interfaces.deps.json
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\bin\Debug\net8.0\interfaces.runtimeconfig.json
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\bin\Debug\net8.0\interfaces.dll
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\bin\Debug\net8.0\interfaces.pdb
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfoInputs.cache
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfo.cs
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\interfaces.csproj.CoreCompileInputs.cache
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\interfaces.sourcelink.json
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\interfaces.dll
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\refint\interfaces.dll
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\interfaces.pdb
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\interfaces.genruntimeconfig.cache
+D:\WorkFiles\programming\git\CSimple\sections\interfaces\obj\Debug\net8.0\ref\interfaces.dll
