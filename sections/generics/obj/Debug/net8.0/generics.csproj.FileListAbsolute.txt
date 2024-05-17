@@ -1,0 +1,15 @@
+D:\WorkFiles\programming\git\CSimple\sections\generics\bin\Debug\net8.0\generics.exe
+D:\WorkFiles\programming\git\CSimple\sections\generics\bin\Debug\net8.0\generics.deps.json
+D:\WorkFiles\programming\git\CSimple\sections\generics\bin\Debug\net8.0\generics.runtimeconfig.json
+D:\WorkFiles\programming\git\CSimple\sections\generics\bin\Debug\net8.0\generics.dll
+D:\WorkFiles\programming\git\CSimple\sections\generics\bin\Debug\net8.0\generics.pdb
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\generics.AssemblyInfoInputs.cache
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\generics.AssemblyInfo.cs
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\generics.csproj.CoreCompileInputs.cache
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\generics.sourcelink.json
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\generics.dll
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\refint\generics.dll
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\generics.pdb
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\generics.genruntimeconfig.cache
+D:\WorkFiles\programming\git\CSimple\sections\generics\obj\Debug\net8.0\ref\generics.dll

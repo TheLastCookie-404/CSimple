@@ -1,0 +1,15 @@
+D:\WorkFiles\programming\git\CSimple\sections\delegates\bin\Debug\net8.0\delegates.exe
+D:\WorkFiles\programming\git\CSimple\sections\delegates\bin\Debug\net8.0\delegates.deps.json
+D:\WorkFiles\programming\git\CSimple\sections\delegates\bin\Debug\net8.0\delegates.runtimeconfig.json
+D:\WorkFiles\programming\git\CSimple\sections\delegates\bin\Debug\net8.0\delegates.dll
+D:\WorkFiles\programming\git\CSimple\sections\delegates\bin\Debug\net8.0\delegates.pdb
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\delegates.AssemblyInfoInputs.cache
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\delegates.AssemblyInfo.cs
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\delegates.csproj.CoreCompileInputs.cache
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\delegates.sourcelink.json
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\delegates.dll
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\refint\delegates.dll
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\delegates.pdb
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\delegates.genruntimeconfig.cache
+D:\WorkFiles\programming\git\CSimple\sections\delegates\obj\Debug\net8.0\ref\delegates.dll

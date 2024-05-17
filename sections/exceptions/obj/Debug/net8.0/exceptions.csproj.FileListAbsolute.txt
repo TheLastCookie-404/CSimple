@@ -1,0 +1,15 @@
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\bin\Debug\net8.0\exceptions.exe
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\bin\Debug\net8.0\exceptions.deps.json
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\bin\Debug\net8.0\exceptions.runtimeconfig.json
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\bin\Debug\net8.0\exceptions.dll
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\bin\Debug\net8.0\exceptions.pdb
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\exceptions.AssemblyInfoInputs.cache
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\exceptions.AssemblyInfo.cs
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\exceptions.csproj.CoreCompileInputs.cache
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\exceptions.sourcelink.json
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\exceptions.dll
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\refint\exceptions.dll
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\exceptions.pdb
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\exceptions.genruntimeconfig.cache
+D:\WorkFiles\programming\git\CSimple\sections\exceptions\obj\Debug\net8.0\ref\exceptions.dll
