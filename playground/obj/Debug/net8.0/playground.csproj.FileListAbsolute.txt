@@ -1,0 +1,15 @@
+D:\WorkFiles\programming\git\CSimple\playground\bin\Debug\net8.0\playground.exe
+D:\WorkFiles\programming\git\CSimple\playground\bin\Debug\net8.0\playground.deps.json
+D:\WorkFiles\programming\git\CSimple\playground\bin\Debug\net8.0\playground.runtimeconfig.json
+D:\WorkFiles\programming\git\CSimple\playground\bin\Debug\net8.0\playground.dll
+D:\WorkFiles\programming\git\CSimple\playground\bin\Debug\net8.0\playground.pdb
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\playground.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\playground.AssemblyInfoInputs.cache
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\playground.AssemblyInfo.cs
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\playground.csproj.CoreCompileInputs.cache
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\playground.sourcelink.json
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\playground.dll
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\refint\playground.dll
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\playground.pdb
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\playground.genruntimeconfig.cache
+D:\WorkFiles\programming\git\CSimple\playground\obj\Debug\net8.0\ref\playground.dll
