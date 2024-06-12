@@ -96,7 +96,7 @@ try
 }
 catch(DivideByZeroException exceptionVar) // Тип исключнеия, переменная для вывода сообщения о типе исключения
 {
-    Console.WriteLine($"Тип исключения: {exceptionVar}. \n А я погляжу, ты шальной, на нолик делишь, ай ай ай!!!");
+    Console.WriteLine($"Тип исключения: {exceptionVar}. \nА я погляжу, ты шальной, на нолик делишь, ай ай ай!!!");
 }
 
 // 3 
